@@ -17,6 +17,7 @@
   }
 
   .UUI-HTMLSelect-Select {
+    @include radius;
     padding: 0.5rem;
     background-color: white;
     width: 100%;
